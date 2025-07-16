@@ -43,7 +43,6 @@ Explore my repositories: [github.com/wolsybl](https://github.com/wolsybl)
 - Improve problem-solving with algorithms and data structures  
 - Deploy full-stack apps with Docker and CI/CD workflows  
 - Contribute to open-source projects  
-- Learn TypeScript and testing frameworks
 
 ---
 
@@ -71,7 +70,7 @@ Disfruto convertir ideas en aplicaciones funcionales y trabajar en entornos cola
 - **Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
 - **Backend:** Node.js · Express.js · APIs REST  
 - **Bases de datos:** MongoDB · MySQL · SQL  
-- **Herramientas:** Git · GitHub · Docker · Postman · VS Code  
+- **Herramientas:** Git · GitHub · Docker · VS Code  
 - **Metodologías:** Scrum · Desarrollo ágil · Control de versiones  
 
 ---
@@ -92,8 +91,7 @@ Explora mis repositorios: [github.com/wolsybl](https://github.com/wolsybl)
 
 - Mejorar mis habilidades en algoritmos y estructuras de datos  
 - Desplegar apps full-stack usando Docker y flujos CI/CD  
-- Contribuir a proyectos open-source  
-- Aprender TypeScript y frameworks de testing
+- Contribuir a proyectos open-source
 
 ---
 
