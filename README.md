@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Wilson Andres Henao</h1>
 <p align="center">
-  📍 Pereira, Colombia · 💻 Software Development Student · 🌱 Future Full-Stack Developer
+  📍 Pereira, Colombia · 💻 Software Development Student · 🌱 Junior Full-Stack Developer
 </p>
 
 ---
