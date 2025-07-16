@@ -21,7 +21,7 @@ I love turning ideas into functional applications and collaborating in agile env
 - **Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
 - **Backend:** Node.js · Express.js · RESTful APIs  
 - **Databases:** MongoDB · MySQL · SQL  
-- **Tools:** Git · GitHub · Docker · Postman · VS Code  
+- **Tools:** Git · GitHub · Docker · VS Code  
 - **Practices:** Scrum · Agile · Version Control  
 
 ---
