@@ -41,7 +41,6 @@ Explore my repositories here: [github.com/wolsybl](https://github.com/wolsybl)
 - Improve problem-solving with algorithms and data structures  
 - Deploy full-stack apps with Docker and CI/CD workflows  
 - Contribute to open-source projects  
-- Learn TypeScript and testing frameworks
 
 ---
 
@@ -49,7 +48,7 @@ Explore my repositories here: [github.com/wolsybl](https://github.com/wolsybl)
 
 - 📧 Email: [wolsybl17@gmail.com](mailto:wolsybl17@gmail.com)  
 - 🔗 GitHub: [github.com/wolsybl](https://github.com/wolsybl)  
-- 🌐 LinkedIn: *Coming soon*
+- 🌐 LinkedIn: [linkedin.com/in/andres-henao-55785a364](https://www.linkedin.com/in/andres-henao-55785a364/)
 
 ---
 
