@@ -36,7 +36,7 @@ Explore my repositories: [github.com/wolsybl](https://github.com/wolsybl)
 > - 📊 Dashboard with live data and authentication
 > - 🚀 Simple deployment pipelines using Docker
 
-##  Preview of one of my proyects
+##  Preview of one proyect
 <table style="width:100%">
   <tr>
     <td>
