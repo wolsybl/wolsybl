@@ -106,7 +106,7 @@ Explora mis repositorios: [github.com/wolsybl](https://github.com/wolsybl)
     </td>
     <td>
       <a>
-        <img src="https://github.com/user-attachments/assets/4c06fe4b-8acc-4c4d-98ab-bd977db2a94e">
+        <img src="https://github.com/user-attachments/assets/0324088e-086a-4a1d-8243-e7b0fa0c4235">
       </a>
     </td>
   </tr>
