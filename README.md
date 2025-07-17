@@ -19,7 +19,7 @@ I love turning ideas into functional applications and collaborating in agile env
 
 - **Languages:** JavaScript · Python · Java · SQL  
 - **Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
-- **Backend:** Node.js · Express.js · RESTful APIs  
+- **Backend:** Node.js · Express.js  
 - **Databases:** MongoDB · MySQL · SQL  
 - **Tools:** Git · GitHub · Docker · VS Code  
 - **Practices:** Scrum · Agile · Version Control  
@@ -93,7 +93,7 @@ Disfruto convertir ideas en aplicaciones funcionales y trabajar en entornos cola
 
 - **Lenguajes:** JavaScript · Python · Java · SQL  
 - **Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
-- **Backend:** Node.js · Express.js · APIs REST  
+- **Backend:** Node.js · Express.js  
 - **Bases de datos:** MongoDB · MySQL · SQL  
 - **Herramientas:** Git · GitHub · Docker · VS Code  
 - **Metodologías:** Scrum · Desarrollo ágil · Control de versiones  
