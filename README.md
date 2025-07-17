@@ -29,7 +29,7 @@ I love turning ideas into functional applications and collaborating in agile env
 ### 📌 Projects
 
 I'm currently building and refining projects to showcase my skills.  
-Explore my repositories: [github.com/wolsybl](https://github.com/wolsybl)
+Explore my repositories: [github.com/wolsybl](https://github.com/wolsybl?tab=repositories)
 
 > 🔧 Sample project ideas I’m working on:
 > - 🗃️ Task Manager with CRUD features (MongoDB + Express + React + Node)
