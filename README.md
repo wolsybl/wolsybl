@@ -85,6 +85,32 @@ Explora mis repositorios: [github.com/wolsybl](https://github.com/wolsybl)
 > - 📊 Dashboard con datos en tiempo real y autenticación
 > - 🚀 Automatización de despliegues simples con Docker
 
+
+##  Imagenes de uno de mis proyectos
+<table style="width:100%">
+  <tr>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/7c68756c-828b-4197-95f5-0ffc4e466e6c">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/f9f0038f-6fcc-4f50-99e6-53d3967871fd">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/830d0b8c-2118-4f4a-bc19-090554449138">
+      </a>
+    </td>
+    <td>
+      <a>
+        <img src="https://github.com/user-attachments/assets/4c06fe4b-8acc-4c4d-98ab-bd977db2a94e">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🎯 Objetivos
