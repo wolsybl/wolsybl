@@ -17,7 +17,7 @@ I love turning ideas into functional applications and collaborating in agile env
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript · Python · Java · SQL  
+- **Languages:** JavaScript · Python · Java
 - **Frontend:** React · HTML5 · CSS3 · Tailwind CSS  
 - **Backend:** Node.js · Express.js  
 - **Databases:** MongoDB · MySQL · SQL  
